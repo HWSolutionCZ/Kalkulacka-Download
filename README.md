@@ -1,10 +1,10 @@
 # Kalkulačka pro Android
 
-[**Stáhnout kalkulacka.apk — verze 1.1**](https://github.com/HWSolutionCZ/Kalkulacka-Download/releases/download/v1.1.0/kalkulacka.apk)
+[**Stáhnout kalkulacka.apk — verze 1.2**](https://github.com/HWSolutionCZ/Kalkulacka-Download/releases/download/v1.2.0/kalkulacka.apk)
 
 Nebo v telefonu naskenujte tento QR kód:
 
-![QR ke stažení APK](https://github.com/HWSolutionCZ/Kalkulacka-Download/releases/download/v1.1.0/kalkulacka-qr.png)
+![QR ke stažení APK](https://github.com/HWSolutionCZ/Kalkulacka-Download/releases/download/v1.2.0/kalkulacka-qr.png)
 
 Podepsané instalační APK pro **Android 8 a novější**. Aplikace se v telefonu jmenuje **Kalkulačka** a funguje offline.
 
@@ -14,6 +14,6 @@ Podepsané instalační APK pro **Android 8 a novější**. Aplikace se v telefo
 
 Původní instalaci lze aktualizovat otevřením nového APK, bez odinstalace.
 
-[Vydání a kontrolní součet](https://github.com/HWSolutionCZ/Kalkulacka-Download/releases/tag/v1.1.0)
+[Vydání a kontrolní součet](https://github.com/HWSolutionCZ/Kalkulacka-Download/releases/tag/v1.2.0)
 
 Tento repozitář slouží pouze k distribuci. Obsahuje návod; APK, QR a kontrolní součet jsou přílohy vydání.
